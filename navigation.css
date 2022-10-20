@@ -1,0 +1,18 @@
+*{
+			margin: 0%;
+		}
+		.navigation{
+			background-color: deepskyblue;
+			display: flex;
+			justify-content: space-evenly;
+		}
+		.navigation a{
+			color: deeppink;
+			font-size: 50px;
+			text-decoration: none;
+			padding: 1.8%;
+		}
+		.navigation a:hover{
+			background-color: brown;
+			color: white;
+		}
